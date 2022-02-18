@@ -29,7 +29,7 @@ class Bank_account:
     def print_all_accounts(cls):
         for i in cls.accounts:
             i.display_account_info()
-# comment
+# comment has been changed
 
 
 checking = Bank_account(.03,500)
